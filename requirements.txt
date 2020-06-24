@@ -1,0 +1,7 @@
+requests>=2.18.4
+pyspark>=2.4.5
+numpy>=1.18.4
+py4j>=0.10.9
+scipy>=0.19.1
+pandas>=1.0.4
+setuptools>=46.1.3
