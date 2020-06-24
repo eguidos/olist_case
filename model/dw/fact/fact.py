@@ -1,6 +1,6 @@
-from model.business import Customer, Geolocation, Orders, Products, Reviews, Sellers, Items, Payments
+from business.business import Customer, Geolocation, Orders, Products, Reviews, Sellers, Items, Payments
 from utils import time_transformation, d_transformation, insert
-from config.spark import log
+from DAO.spark import log
 
 
 class Fact:

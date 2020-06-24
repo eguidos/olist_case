@@ -1,6 +1,6 @@
-from model.business import Customer, Geolocation, Orders, Products, Reviews, Sellers, Items
+from business.business import Customer, Geolocation, Orders, Products, Reviews, Sellers, Items
 from utils import insert, date_transformation, time_t
-from config.spark import log
+from DAO.spark import log
 
 
 class Dim:
