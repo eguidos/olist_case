@@ -43,15 +43,19 @@ e fatos da base denormalizada inspirado no modelo **Star Schema (Kimball)**:
 2. Tabela Fato
     - Orders
 
+##Coleta de dados utilizando Python
+A estrutura necessária para a coleta dos dados amostrais foi realizada utlizando os trechos de código contidos no módulo `utils.py`.
+
+
+
+
 ###Normaliação de dados utilizando **Python / Spark**
 A organização do código Pyspark utilizada nesta POC seguiu o padrão semelhante a Arquitetura Orientada a Serviços (SOA) 
 evidenciado abaixo. Este padrão contribui para fácil manutenção do código fonte e principalmente para escalabilidade de análises sob o dado coletado.
 
 [!DATA](resources/architecture/normalization.jpg)
+:pushpin: **Pyspark** foi a linguagem como base para utilização de ferramentas Big Data.
 
-Linguagem Utilizada | **Python / Apache Sapark** Linguagem com base para utilização de ferramentas Big Data, 
-:round_pushpin:
-----------------------------------| -------------
 
     
-      
+ 
