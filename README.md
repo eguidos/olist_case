@@ -47,7 +47,7 @@ e fatos da base denormalizada inspirado no modelo **Star Schema (Kimball)**:
 
 ### Coleta de dados utilizando Python
 A estrutura necessária para a coleta dos dados amostrais foi realizada utlizando o módulo `getfiles()` contidos no pacote `main`.
-![COLLECTING](resources/architecture/data_collecting.jpg)
+![DATA](resources/architecture/data_collecting.jpg)
 
 #### Normalização de dados utilizando **Python / Spark**
 A organização do código Pyspark utilizada nesta POC seguiu o padrão semelhante a Arquitetura Orientada a Serviços (SOA) 
