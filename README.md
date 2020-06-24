@@ -11,7 +11,7 @@
 
 * Resumo 
 
-O counteúdo deste repositório tem como objetivo demonstrar um fluxo de dados para realizar a normalização de um banco de 
+O conteúdo deste repositório tem como objetivo demonstrar um fluxo de dados para realizar a normalização de um banco de 
 dados utilizando como base **Apache Spark**. Além disso, o processo gera um relatório consumindo todos os dados coletados e 
 salva no diretório base deste repositório.
 
