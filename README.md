@@ -69,7 +69,7 @@ Este componente tem como principal responsabilidade extrair os dados necessário
 ###### Source
 Este componente tem como principal responsabilidade realizar a junção das regras de negócio e por sua vez prover a visão final do dado.
 
-####Resultados
+###### Resultados
 A POC em destaque transforma o modelo inicial de dados em um modelo Data Warehouse (DW).
 O conjunto de tabelas no DW por sua vez, consolida informações coletadas a partir de múltiplos sistemas e também
 de inúmeros data sources.
@@ -77,7 +77,7 @@ Nesta POC o DW armazena informações sobre as compras feitas por clientes, que 
 na principal dabela do DW, a tabela fato. Esta por sua vez, contém todas as métricas necessárias para análises, como por exemplo, o total de vendas em um mês, os produtos mais vendidos,
 os horarios das compras rellizadas por clientes, indormações sobre produtos, datas de entrega e etc..
 
-#####Proposta de migração para ambiente Cloud AWS.
+##### Proposta de migração para ambiente Cloud AWS.
 Visão geral da conversão de esquema
 
 ![AWS ARCHITECTURE](resources/architecture/DataExtractor.jpg)
