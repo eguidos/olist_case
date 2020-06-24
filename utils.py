@@ -9,7 +9,7 @@ def getspark():
 
 
 def getpathfile():
-    path = os.path.join(os.path.dirname(__file__), '../dataengineering/resources/files/')
+    path = os.path.join(os.path.dirname(__file__), 'resources/files')
     return path
 
 
