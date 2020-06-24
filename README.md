@@ -74,8 +74,8 @@ A POC em destaque transforma o modelo inicial de dados em um modelo Data Warehou
 O conjunto de tabelas no DW por sua vez, consolida informações coletadas a partir de múltiplos sistemas e também
 de inúmeros data sources.
 Nesta POC o DW armazena informações sobre as compras feitas por clientes, que estão armazenadas nas tabelas dimensionais e são consolidadas 
-na principal dabela do DW, a tabela fato. Esta por sua vez, contém todas as métricas necessárias para análises, como por exemplo, o total de vendas em um mês, os produtos mais vendidos,
-os horarios das compras rellizadas por clientes, indormações sobre produtos, datas de entrega e etc..
+na principal tabela do DW, a tabela fato. Esta por sua vez, contém todas as métricas necessárias para análises, como por exemplo, o total de vendas em um mês, os produtos mais vendidos,
+os horarios das compras rellizadas por clientes, informações sobre produtos, datas de entrega e etc..
 
 ##### Proposta de migração para ambiente Cloud AWS.
 Visão geral da conversão de esquema
