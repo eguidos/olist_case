@@ -49,7 +49,7 @@ evidenciado abaixo. Este padrão contribui para fácil manutenção do código f
 
 [!DATA](resources/architecture/normalization.jpg)
 
-Linguagem Utilizada :round_pushpin| **Python / Apache Sapark** Linguagem com base para utilização de ferramentas Big Data,
+Linguagem Utilizada :round_pushpin:| **Python / Apache Sapark** Linguagem com base para utilização de ferramentas Big Data,
 ----------------------------------| -------------
 
     
